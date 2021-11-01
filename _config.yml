@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Vinay Narayana </p>
+logo: https://avatars.githubusercontent.com/u/22490030?v=4
+
+description:
+#   <p align="center">
+#   <a href="pdf/resume.pdf">Resume</a> |
+#   <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+#   <a href="https://github.com/sajankedia">GitHub</a>
+  
+  <br>   
+  Portfolio description goes here
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
